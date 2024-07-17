@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a> herf ="https://www.linkedin.com/in/vishal-sharma-080865242/" </a>
+<a herf ="https://www.linkedin.com/in/vishal-sharma-080865242/", src = "https://www.linkedin.com/in/vishal-sharma-080865242/" ></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

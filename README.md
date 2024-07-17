@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com" target="blank"><img align="center" src="https://www.linkedin.com/in/vishal-sharma-080865242/" alt="vishal sharma" height="30" width="40" /></a>
+<a> herf ="https://www.linkedin.com/in/vishal-sharma-080865242/" </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

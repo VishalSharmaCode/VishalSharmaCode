@@ -1,5 +1,5 @@
 <h1 align="center">Vishal Sharma </h1>
-<h3 align="center">Passionate for ML</h3>
+<h3 align="center">Machine Learning Is My Passion.L</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=VishalSharmaCode&label=Profile%20views&color=0e75b6&style=flat" alt="VishalSharmaCode" /> </p>
 

@@ -1,5 +1,6 @@
 # 💫 About Me:
 Hi, I'm Vishal Sharma — a passionate developer and tech enthusiast with experience in Python, JavaScript, Java, and Dart. I love building real-world solutions in areas like machine learning, IoT, embedded systems, and full-stack development.<br><br>I'm skilled in tools and frameworks such as Flutter, Firebase, NumPy, Pandas, Scikit-learn, OpenCV, and SQLite, and have worked on impactful projects including a heart prediction system and a smart soldier suit combining AI with hardware.<br><br>I enjoy learning, building, and collaborating on innovative tech that makes a difference.<br><br>
+Portfolio :- https://vishalsharmacode.github.io/Portfolio/
 
 
 ## 🌐 Socials:

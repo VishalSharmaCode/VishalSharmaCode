@@ -8,10 +8,9 @@ Portfolio :- https://vishalsharmacode.github.io/Portfolio/
 
 ### 💼 Skills
 
-- 💡 **Languages**: Python, JavaScript, Java, C, Go, SQL 
-- 🧠 **Machine Learning**: Scikit-learn, OpenCV, NumPy, Pandas, Matplotlib, Seaborn, Streamlit  
-- 🕸️ **Web Development**: Django, FastAPI, Flask, HTML, CSS, REST APIs, Firebase  
-- 📱 **App Development**: Flutter, Android (Java/XML)  
+- 💡 **Languages**: Python, JavaScript, C, Go, SQL 
+- 🧠 **Machine Learning**: Scikit-learn, NumPy, Pandas, Matplotlib, Seaborn, Streamlit  
+- 🕸️ **Web Development**: Django, FastAPI, Flask, HTML, CSS, REST APIs 
 - 📡 **IoT & Embedded**: Arduino, ESP32, Raspberry Pi, Sensors,  
 - ☁️ **Cloud & Deployment**: Google Cloud Platform (GCP), Firebase  
 - 🧪 **Testing & Automation**: Unit Testing, Firebase Testing, Automation Scripts  
